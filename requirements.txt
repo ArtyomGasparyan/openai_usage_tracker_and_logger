@@ -1,0 +1,7 @@
+mysql-connector-python
+pandas
+openai
+langchain-openai
+llama-index
+pickle
+zlib
